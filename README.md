@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @dev-Imsaurabh
 - 👀 I’m interested in learning new Tech Stacks. 
 - 🌱 I’m currently learning Fullsatck .WebDevelopment{
--      HTML:100%
+-      HTML
 -      CSS
 -      JS
-       Mongo DB
-       Express
-       React
-       Node.js
+-      Mongo DB
+-      Express
+-      React
+-      Node.js
   
  
 - }
