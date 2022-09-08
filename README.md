@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-Imsaurabh
 - 👀 I’m interested in learning new Tech Stacks. 
-- 🌱 I’m currently learning Fullsatck .WebDevelopment{
+- 🌱 I’m currently learning Fullsatck WebDevelopment{
 -      HTML
 -      CSS
 -      JS
