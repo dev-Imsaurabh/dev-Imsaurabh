@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new Tech Stacks. 
 - 🌱 I’m currently learning Fullsatck .WebDevelopment{
 -      HTML:100%
-       CSS
-       JS
+-      CSS
+-      JS
        Mongo DB
        Express
        React
