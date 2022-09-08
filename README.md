@@ -1,13 +1,7 @@
 - 👋 Hi, I’m @dev-Imsaurabh
 - 👀 I’m interested in learning new Tech Stacks. 
-- 🌱 I’m currently learning{
--     interest: 100%;
--     AmazeMe: 100%;
--     Progress: 10%
-- }
-
-  
-       -HTML
+- 🌱 I’m currently learning Fullsatck Web Development{
+-       -HTML
        -CSS
        -JS
        -Mongo DB
@@ -16,6 +10,10 @@
        -Node.js
   
  
+- }
+
+  
+      
 
 <!---
 dev-Imsaurabh/dev-Imsaurabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
