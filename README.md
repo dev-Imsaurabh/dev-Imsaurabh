@@ -28,7 +28,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 - 😄 Pronouns: He/His
  
-- 🌐 Have a look at my [Portfolio](https://dev-imsaurabh.github.io) 
+- 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io">Portfolio</a>
 
 - 📄 Download my [Resume](https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link) 
 
