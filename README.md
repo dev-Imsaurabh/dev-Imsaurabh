@@ -30,7 +30,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
  
 - 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="download">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_download">Resume</a>
 
 
 
