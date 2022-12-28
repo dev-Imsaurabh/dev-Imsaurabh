@@ -6,10 +6,10 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Imsaurabh&label=Profile%20views&color=00ff00&style=flat" alt="tushit99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Imsaurabh&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
    <p align="center" color:"red">
-     <a href="https://github.com/pallavijainy/readme-typing-svg">
+     <a href="">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Saurabh+Kumar;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
       </p>
       
@@ -34,9 +34,9 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 
 
-<h2>🥇 Skills:  </h2>  
+<h2>🥇 Technical Skills:  </h2>  
 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br/>
 
 <div align="center">
@@ -44,7 +44,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
  
 </div>
 
-## 📊 My Github Stats 
+## 📊 Statstics 
 <!-- github status  -->
 
 <div align="center" style="display: flex; gap:50px">
