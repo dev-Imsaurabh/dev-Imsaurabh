@@ -1,8 +1,8 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://www.instagram.com/tushit_saxena/"> Tushit Saxena 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="[https://www.instagram.com/tushit_saxena/](https://www.linkedin.com/in/dev-saurabh-kumar/)">Saurabh Kumar 💻</a>!
 </h2>  
 
-Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
+Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
@@ -10,7 +10,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
    <p align="center" color:"red">
      <a href="https://github.com/pallavijainy/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Tushit Saxena 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Saurabh+Kumar;I+am+interested+in+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
