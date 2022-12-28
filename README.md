@@ -6,7 +6,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Imsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Imsaurabh&label=Profile%20views&color=00ff00&style=flat" alt="tushit99" /> </p>
 
    <p align="center" color:"red">
      <a href="https://github.com/pallavijainy/readme-typing-svg">
