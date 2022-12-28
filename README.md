@@ -20,7 +20,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/dev-saurabh-kumar) & GitHub**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/dev-saurabh-kumar" target="_blank">LinkedIn</a>) & GitHub**
 
 - 📫 Reach me on **sau4478@gmail.com** 
 
@@ -28,9 +28,9 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 - 😄 Pronouns: He/His
  
-- 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io">Portfolio</a>
+- 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a>
 
-- 📄 Download my [Resume](https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link) 
+- 📄 Download my <a href="https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link" target="_blank">Resume</a>
 
 
 
