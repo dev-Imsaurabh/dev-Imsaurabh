@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="[https://www.instagram.com/tushit_saxena/](https://www.linkedin.com/in/dev-saurabh-kumar/)">Saurabh Kumar 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/dev-saurabh-kumar">Saurabh Kumar 💻</a>!
 </h2>  
 
 Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
@@ -20,9 +20,9 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/dev-saurabh-kumar) & GitHub**
 
-- 📫 Reach me on **tushitsaxena4@gmail.com** 
+- 📫 Reach me on **sau4478@gmail.com** 
 
 - 💬 ask me about anything, i am happy to help 
 
@@ -30,7 +30,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my [Portfolio](https://tushitsaxena.netlify.app) 
+- 💬 Have a look at my [Portfolio](https://dev-imsaurabh.github.io) 
 
 
 
