@@ -24,13 +24,13 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
 
 - 📫 Reach me on **sau4478@gmail.com** 
 
-- 💬 ask me about anything, i am happy to help 
+- 💬 Open for your suggestions
 
 - 😄 Pronouns: He/His
+ 
+- 🌐 Have a look at my [Portfolio](https://dev-imsaurabh.github.io) 
 
-- ⚡ Fun Fact: Imagination is more important than knowledge 
-
-- 💬 Have a look at my [Portfolio](https://dev-imsaurabh.github.io) 
+- 📄 Download my [Resume](https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link) 
 
 
 
@@ -44,7 +44,7 @@ Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passio
  
 </div>
 
-## 📊 Statstics 
+## 📊 Statistics  
 <!-- github status  -->
 
 <div align="center" style="display: flex; gap:50px">
