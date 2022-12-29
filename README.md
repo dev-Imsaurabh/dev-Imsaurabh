@@ -2,7 +2,7 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/dev-saurabh-kumar">Saurabh Kumar 💻</a>!
 </h2>  
 
-Hello stranger! my name is Saurabh Kumar and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
+Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer. I am constantly learning and striving to improve my skills in order to deliver the best solutions for my clients. With a strong foundation in both front-end and back-end development, I am comfortable working on projects of all sizes and complexities. Whether you need a new website or want to update your existing online presence, I am here to help bring your vision to life. Thank you for visiting my GitHub, I look forward to working with you! 
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 
