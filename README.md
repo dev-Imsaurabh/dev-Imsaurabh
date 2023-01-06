@@ -25,8 +25,6 @@ Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer
 - 📫 Reach me on **sau4478@gmail.com** 
 
 - 💬 Open for your suggestions
-
-- 😄 Pronouns: He/His
  
 - 🌐 Have a look at my <a href="https://dev-imsaurabh.github.io" target="_blank">Portfolio</a>
 
