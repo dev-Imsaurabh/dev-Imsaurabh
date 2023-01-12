@@ -88,7 +88,7 @@ Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer
 <!-- github status  -->
 
 <div align="center" style="display: flex; gap:50px">
- <img src="https://github-readme-stats.vercel.app/api?username=dev-Imsaurabh&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-Imsaurabh&theme=nord_dark" style="width: 50%" />
 
 <div align="center" style="display: flex; ">
  
@@ -96,7 +96,7 @@ Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer
 
 </div>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Imsaurabh&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-Imsaurabh&theme=nord_dark" style="width: 50%" />
 
 </div>
 
