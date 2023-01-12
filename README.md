@@ -87,7 +87,7 @@ Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer
 ## 📊 Statistics  
 <!-- github status  -->
 
-<div>
+<div style="display:flex;">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-Imsaurabh&theme=nord_dark" style="width: 50%" />
 
  
