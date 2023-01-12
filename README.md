@@ -74,7 +74,7 @@ Hi there, my name is Saurabh Kumar and I am a passionate FullStack web developer
   </div>
   
   
-  ![](https://raw.githubusercontent.com/dev-imsaurabh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dev-Imsaurabh/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
   
   
